@@ -46,3 +46,38 @@ width: 50%;
                 color: blue;
 
             }
+            .dream-width{
+                width: 50%;
+                    padding: 5%;
+
+
+
+            }
+            .dream-width img{
+
+                width: 100%;
+            }
+            .resume-button{
+
+
+                text-decoration: none;
+                background-image: linear-gradient(rgba(238, 51, 5, 0.881), rgba(255, 89, 0, 0.493), rgba(222, 28, 3, 0.697));
+              
+                padding: 5px 15px;
+                border-radius: 5px;
+                color: aliceblue;
+                font-weight: 700
+           
+            }
+            .commitment{
+                color: brown;
+                background: rgb(221, 240, 11);
+                
+
+            }
+             
+          .dream-section{
+            background-image: url(images/dream-bg.png);
+            background-repeat:no-repeat;
+            background-position: right;
+          }
