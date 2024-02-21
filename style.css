@@ -1,6 +1,6 @@
 body {
     font-family: "Poppins", sans-serif;
-
+   margin: 0%;
   }
   h1{
     font-size: 50px;
@@ -22,6 +22,27 @@ width: 50%;
   }
   .half-width img{
 
-    width: 114%;
+    width: 90%;
+    
 
 }
+ .link-button{
+   
+   background-image: linear-gradient(rgba(238, 51, 5, 0.881),rgba(255, 89, 0, 0.493), rgba(222, 28, 3, 0.697));
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 8px;
+    font-weight: 700;
+    color: aliceblue;
+    font-family: poppins;
+   
+ }
+ .background-image{
+
+    background-image: url(images/top-banner.png) ;
+    background-repeat: no-repeat;
+ }
+ .sorry-class{
+                color: blue;
+
+            }
