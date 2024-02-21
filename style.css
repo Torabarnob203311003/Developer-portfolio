@@ -11,12 +11,13 @@ body {
      color:orange;
 
   }
-  section{
+ .flexible-continer{
 
     display: flex;
+    margin-bottom: 100px;
   }
 
-  .half-width{
+  .half-width {
 width: 50%;
  padding: 5%;
   }
